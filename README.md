@@ -3,7 +3,7 @@
   <a href="https://www.linkedin.com/in/moses-ugwulo/">
        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
-  <a href="https://itch.io/profile/michael2150">
+  <a href="https://meticulous1.itch.io/">
       <img src="https://img.shields.io/badge/Itch IO-orange?style=for-the-badge&logo=itchio&logoColor=white" alt="Itch Badge" />
   </a>
 </div>
